@@ -1,8 +1,7 @@
 
-<div style="align-content: center">
-  ![](resources/img/pyramid.png)
-</div>
-
+<p align="center" width="100%">
+    <img width="85%" src="resources/img/pyramid.png">
+</p>
 
 
 # Строене на Магическа Пирамида в Minecraft с Python
