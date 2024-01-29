@@ -1,6 +1,6 @@
 
 <p align="center" width="100%">
-    <img width="85%" src="resources/img/pyramid.png">
+    <img width="85%" height="85%" src="resources/img/pyramid.png" alt="pyramid">
 </p>
 
 
